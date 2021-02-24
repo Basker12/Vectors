@@ -16,7 +16,7 @@ Here are the four operations:
 3: Dot product of vectors
 
 4: Multiplying vectors and scalars (I wasn't able too
-do the scalar multiplicstion yet but i'll update the
+do the scalar multiplication yet but i'll update the
 repository when i do)
 
 --Basker12
